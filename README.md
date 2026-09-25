@@ -1,8 +1,8 @@
-# Telco Customer Churn Analysis
+Week 1 # Telco Customer Churn Analysis
 
 ## 📌 Project Overview
 
-This project focuses on analyzing customer churn using the **Telco Customer Churn dataset**. The main objective is to understand customer behavior, identify the factors that contribute to customer churn, and visualize important patterns in the dataset.
+This project focuses on analyzing customer churn using the **Telco Customer Churn dataset**. The main objective is to understand customer behavior, identify the factors that contribute to customer churn, and visualize important patterns in the dataset.    
 
 The project uses **Python, Pandas, NumPy, Matplotlib, and Seaborn** for data analysis and visualization.
 
@@ -132,4 +132,30 @@ The visual analysis provides insights into the characteristics of customers asso
 
 ## 💡 Insights
 
-The exploratory analysis helps identify patterns between customer characte
+The exploratory analysis helps identify patterns between customer character
+
+# Telco Customer Churn Prediction — Week 2
+
+This project focuses on predicting customer churn using machine learning.
+
+### Work Completed
+
+* Data preprocessing and feature engineering
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Confusion Matrix and ROC-AUC analysis
+* Threshold analysis
+* Class imbalance handling
+* Feature importance analysis
+
+### Best Results
+
+* Logistic Regression Accuracy: **80.7%**
+* Random Forest Accuracy: **80.7%**
+* Random Forest AUC: **0.8422**
+
+### Tools
+
+Python, Pandas, NumPy, Scikit-learn, Matplotlib, and Kaggle.
+
